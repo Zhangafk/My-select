@@ -11,6 +11,7 @@ int main(){
 	printf("ccvv\n");
 	
 	printf("123"\n);
-
+	
+	printf("version 1.1 \n");
 	return 0;
 }
